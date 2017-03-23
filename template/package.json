@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "vue": "^2.2.2"{{#router}},
-    "vue-router": "^2.2.0"{{/router}}
+    "vue-router": "^2.2.0"{{/router}},
+    "offline-plugin": "^4.6.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
